@@ -7,6 +7,7 @@
 ```
 pip install requirements.txt
 ```
+Также для запуска требуется `.env` файл с ключом доступа к api VK
 
 ## Использование
 При запуске скрипта требуется указать ссылку 
@@ -21,5 +22,6 @@ python main.py https://www.google.com/
 python main.py https://vk.cc/snBwO
 ```
 <img width="415" height="40" alt="image" src="https://github.com/user-attachments/assets/ca8c4d2e-2a48-4a4e-a7c9-36f7f47e7ed5" />
+
 
 
