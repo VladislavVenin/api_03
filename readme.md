@@ -13,10 +13,13 @@ pip install requirements.txt
 ```
 python main.py https://www.google.com/
 ```
+<img width="456" height="44" alt="image" src="https://github.com/user-attachments/assets/6096b887-dd44-4a3e-96ad-1165b617433d" />
 
 
 Если ссылка уже сокращена скрипт выдаст количество кликов по ней.
 ```
 python main.py https://vk.cc/snBwO
 ```
+<img width="415" height="40" alt="image" src="https://github.com/user-attachments/assets/ca8c4d2e-2a48-4a4e-a7c9-36f7f47e7ed5" />
+
 
